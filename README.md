@@ -11,5 +11,6 @@ Initial structure for a simple PHP app using [Slim Framework 4](https://www.slim
 3. Start web server from public folder `php -S localhost:8888 -t public`.
 
 ## Based on
-[Slim Skeleton][https://github.com/slimphp/Slim-Skeleton]
-[Slim 4 Starter][https://github.com/nbayramberdiyev/
+https://github.com/slimphp/slim-skeleton
+
+https://github.com/nbayramberdiyev/
